@@ -3,13 +3,13 @@ Yowsup Gateway
 ===============================
 
 .. image:: https://img.shields.io/pypi/v/yowsup_gateway.svg
-        :target: https://pypi.python.org/pypi/yowsup_gateway
+        :target: https://pypi.python.org/pypi/yowsup-gateway
 
 .. image:: https://img.shields.io/travis/jlmadurga/yowsup_gateway.svg
-        :target: https://travis-ci.org/jlmadurga/yowsup_gateway
+        :target: https://travis-ci.org/jlmadurga/yowsup-gateway
 
 .. image:: https://readthedocs.org/projects/yowsup_gateway/badge/?version=latest
-        :target: https://readthedocs.org/projects/yowsup_gateway/?badge=latest
+        :target: https://readthedocs.org/projects/yowsup-gateway/?badge=latest
         :alt: Documentation Status
 
 
