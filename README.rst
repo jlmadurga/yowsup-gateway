@@ -21,5 +21,7 @@ Yowsup Gateway pretends to be a link between yowsup library and client applicati
 Features
 --------
 
+
 * 0.1.0 Send and receive text messages
+
 
