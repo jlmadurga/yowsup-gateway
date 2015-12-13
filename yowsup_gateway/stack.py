@@ -27,7 +27,7 @@ class YowsupGateway(YowStack):
     disconnection
     """
     
-    def __init__(self, credentials=("34658463741", "eq5rapFxTSyAceSYHZ7btgb0ono="), encryption=False, top_layers=None):
+    def __init__(self, credentials, encryption=False, top_layers=None):
         """
         :param credentials: number and registed password
         :param bool encryptionEnabled:  E2E encryption enabled/ disabled
