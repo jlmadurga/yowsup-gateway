@@ -35,7 +35,7 @@ setup(
     packages=[
         'yowsup_gateway',
     ],
-    package_dir={'yowsup_gateway':
+    package_dir={'yowsup-gateway':
                  'yowsup_gateway'},
     include_package_data=True,
     install_requires=requirements,
