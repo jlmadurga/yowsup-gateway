@@ -1,0 +1,2 @@
+#Yowsup
+-e git+https://github.com/jlmadurga/yowsup.git@issue_1181#egg=yowsup
