@@ -6,7 +6,7 @@ History
 0.1.1 (2015-12-16)
 ---------------------
 
-* Integration with yowsup@issue_1181.
+* Integration with yowsup/issue_1181.
 
 
 
