@@ -10,9 +10,9 @@ Tests for `yowsup_gateway` module.
 import unittest
 import inspect
 import threading
-from yowsup.layers.interface import YowInterfaceLayer, EventCallback
+from yowsup.layers.interface import YowInterfaceLayer
 from yowsup.layers.network import YowNetworkLayer
-from yowsup.layers import YowLayerEvent
+from yowsup.layers import YowLayerEvent, EventCallback
 from tests import success_protocol_entity, failure_protocol_entity, text_message_protocol_entity, \
     ack_incoming_protocol_entity, receipt_incoming_protocol_entity
 from yowsup_gateway import YowsupGateway

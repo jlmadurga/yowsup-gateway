@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from yowsup.layers.interface import YowInterfaceLayer, ProtocolEntityCallback, \
-    EventCallback
+from yowsup.layers.interface import YowInterfaceLayer, ProtocolEntityCallback
+from yowsup.layers import EventCallback
 from yowsup.layers.protocol_messages.protocolentities import \
     TextMessageProtocolEntity
 import logging
