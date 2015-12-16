@@ -9,8 +9,6 @@ History
 * Integration with yowsup/issue_1181.
 
 
-
-
 0.1.0 (2015-12-13)
 ---------------------
 
