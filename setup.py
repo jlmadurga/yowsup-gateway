@@ -26,7 +26,7 @@ test_requirements = [
 
 setup(
     name='yowsup-gateway',
-    version='0.1.0',
+    version='0.1.1',
     description="Yowsup Gateway pretends to be a link between yowsup library and client applications",
     long_description=readme + '\n\n' + history,
     author="Juan Madurga",
